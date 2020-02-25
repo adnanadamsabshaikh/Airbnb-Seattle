@@ -14,6 +14,7 @@ This project is executed in a Jupyter Notebook with the help of below packages
 2. Pandas
 3. Matplotlib
 4. Seaborn
+5. Calendar
 
 ## Conclusion
 1. There is a correlation between the number of available listings and prices which could be due to demand and supply. As seen, the number of listing in January was highest but the average price was lowest and in July, the average price was highest whereas the number of available listings was lowest.
