@@ -1,7 +1,7 @@
 # AirBnB Seattle
 ## Udacity writing a Data Science Blog Post
 
-## Project Overview and motivation
+## Project Overview and Motivation
 This project is part of Udacity's Data Science Nanodegree. The aim of the project is to demostrate knowlege of the CRISP-DM Process for Data Analysis and Data Mining, be able to follow the process and then communicate your findings effectively and clearly to an audience. Using this data, we will try to explore the below questions in terms of pricing and factors affecting pricing in Seattle
 1. Monthly Number of listings and their average price/night?
 2. What is the average price/night in the neighborhood?
